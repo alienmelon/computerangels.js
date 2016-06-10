@@ -1,5 +1,5 @@
 # computerangels.js
-Make sure your website is secured from malicious attacks, and hackers, by including computerangels.js
+Make sure your website is secure from malicious attacks, and hackers, by including computerangels.js
 
 Computer Angels add an extra level of security to your website!
 
