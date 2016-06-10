@@ -10,7 +10,7 @@ You can easily add Computer Angels to your website with these powerful few lines
 <script type="text/javascript" src="computerangels.js"></script>
 
 //call the following on page load:
-<body onLoad="release_the_angels(20, true);">
+<body onload="release_the_angels(20, true);">
 ```
 Depending on the amount of Computer Angels you want you either pass it a larger, or smaller, number.
 Passing it true/false either enables or disables the website protection notice.
